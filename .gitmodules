@@ -1,0 +1,4 @@
+[submodule "source/stm32_cube"]
+	path = source/stm32_cube
+	url = git@github.com:liebherrnenzing/STM32Cube_FW_F4.git
+	branch = release/1.18.0
