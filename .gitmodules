@@ -2,3 +2,23 @@
 	path = source/stm32_cube
 	url = git@github.com:liebherrnenzing/STM32Cube_FW_F4.git
 	branch = release/1.18.0
+[submodule "source/canpie"]
+	path = source/canpie
+	url = git@github.com:liebherrnenzing/CANpie.git
+	branch = master
+[submodule "source/zf_log"]
+	path = source/zf_log
+	url = git@github.com:liebherrnenzing/zf_log.git
+	branch = master
+[submodule "source/canpie-fd_device"]
+	path = source/canpie-fd_device
+	url = git@github.com:liebherrnenzing/canpie-fd_device.git
+	branch = master
+[submodule "project/stm32-cmake"]
+	path = project/stm32-cmake
+	url = git@github.com:ObKo/stm32-cmake.git
+	branch = master
+[submodule "source/printf"]
+	path = source/printf
+	url = git@github.com:liebherrnenzing/printf.git
+	branch = master

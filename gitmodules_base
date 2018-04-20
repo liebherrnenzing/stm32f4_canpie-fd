@@ -1,3 +1,7 @@
+[submodule "source/stm32_cube"]
+	path = source/stm32_cube
+	url = git@github.com:liebherrnenzing/STM32Cube_FW_F4.git
+	branch = release/1.18.0
 [submodule "source/canpie"]
 	path = source/canpie
 	url = git@github.com:liebherrnenzing/CANpie.git
@@ -14,11 +18,7 @@
 	path = project/stm32-cmake
 	url = git@github.com:ObKo/stm32-cmake.git
 	branch = master
-[submodule "source/stm32_cube"]
-	path = source/stm32_cube
-	url = git@github.com:liebherrnenzing/STM32Cube_FW_F4.git
-	branch = release/1.18.0
 [submodule "source/printf"]
 	path = source/printf
 	url = git@github.com:liebherrnenzing/printf.git
-	branch = master
+	branch = master
