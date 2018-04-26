@@ -1,6 +1,8 @@
 Usage
 =====
 
+First of all it is important to run a git clone recurisive. Otherwise the used submodules are missing. So as an example via ssh use this command: ```git clone git@github.com:liebherrnenzing/stm32f4_canpie-fd.git --recursive```
+
 install cmake and python invoke (http://www.pyinvoke.org/) ...
 change the path in invoke.py and build_settings.cmake note not every path is used till now
 then you can use 
